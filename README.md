@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Praveen.</h1>
+ <h1 align="center">Hi 👋, I'm Praveen Verma.</h1>
 <h3 align="center">A pragmatic coder and full-stack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen8848&label=Profile%20views&color=0e75b6&style=flat" alt="praveen8848" /> </p>
