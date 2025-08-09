@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveen8848" alt="praveen8848" /></a> </p>
 
-- 🌱 I’m currently learning **Java Development(Spring Boot).**
+- 🌱 I’m currently learning **Java Development-(Spring Boot).**
 
 - 📫 How to reach me **knowitspraveeno@gmail.com**
 
