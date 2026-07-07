@@ -1,9 +1,7 @@
  <h1 align="center"> Hi 👋, I'm Praveen Verma. </h1>
 <h3 align="center">A pragmatic coder and aspiring software engineer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen8848&label=Profile%20views&color=0e75b6&style=flat" alt="praveen8848" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveen8848" alt="praveen8848" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot Development.**
 
