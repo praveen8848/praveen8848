@@ -107,8 +107,8 @@ Backend Developer • Java Enthusiast • Spring Boot Learner • Problem Solver
 
 # 🚀 Featured Projects
 
-- 📌 TravlMate
-- 📌 SafeBite
+- 📌 ToolShare - Application
+- 📌 QueueUp - Queue Management Web Application
 - 📌 Sorting & Pathfinding Visualizer
 - 📌 AI Fitness Recommendation Microservices
 
